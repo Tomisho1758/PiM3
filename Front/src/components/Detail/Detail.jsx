@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+ /* eslint-disable */import React, { useEffect, useState } from "react";/* eslint-enable */
 import { useParams } from "react-router-dom";
 import axios from "axios";
 

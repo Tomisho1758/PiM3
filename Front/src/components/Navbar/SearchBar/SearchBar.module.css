@@ -14,7 +14,7 @@
   
   .button {
     padding: 10px 20px;
-    background-color: #9000ff;
+    background-color: #00eaff;
     color: #fff;
     border: none;
     border-radius: 5px;
@@ -23,7 +23,7 @@
   
   .button:hover {
     background-color: #ffffff;
-    color: #9000ff;
+    color: #00f7ff;
     font-weight: bold;
   }
   
